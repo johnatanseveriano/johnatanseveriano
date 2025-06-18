@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 Hoje trabalho como técnico de impressoras de produção ...
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas 1º semestre...
-- Conhecimentos em Java script, Typescript, Html e CSS ...
+- Conhecimentos em Python  ...
 - 😄 Pronouns: Ele/Dele
 
 
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="center" alt="johnatanseveriano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <!--
+  Java script, Typescript, Html e CSS
   
   <img align="center" alt="johnatanseveriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="johnatanseveriano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
